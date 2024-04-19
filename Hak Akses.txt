@@ -1,0 +1,32 @@
+Hak Akses
+=======================================
+Super Admin
+=======================================
+username : 123
+password : adminku
+=======================================
+Admin
+=======================================
+username : A001
+password : Smksky@22
+
+(+ Tambah Baru)
+password umum : adminsmkskr@76
+=======================================
+Guru
+=======================================
+password umum : gurusmkskr@76
+=======================================
+Siswa
+=======================================
+password umum : siswasmkskr@76
+=======================================
+
+
+HOSTING
+---------------------------------------
+Host	 : sql105.epizy.com
+Database : epiz_33888761_db_voting
+Username : epiz_33888761
+Password DB : zJ2ZswlIJTftsjT
+Password : Smksangkur@76
